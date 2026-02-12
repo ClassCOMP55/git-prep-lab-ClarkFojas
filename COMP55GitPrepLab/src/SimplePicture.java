@@ -1,4 +1,5 @@
 //comment one
+// Git Prep Lab commit test
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
